@@ -39,7 +39,7 @@ Fuente original: [UCI Machine Learning Repository — Auto MPG](https://archive.
 install.packages("lmtest")
 ```
 
-Colocar `[auto-mpg.csv](auto-mpg.csv) en el directorio de trabajo y correr los scripts en el orden listado arriba.
+Colocar `[auto-mpg.csv](auto-mpg.csv)´ en el directorio de trabajo y correr los scripts en el orden listado arriba.
 
 ## Requisitos
 
