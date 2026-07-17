@@ -4,7 +4,7 @@ Scripts en R que compara y análiza los resultados MCO vs Bootstrap por pares, y
 
 ## Contenido
 
-[📄 01_simulaciones.R](scripts/01_simulaciones.R)
+[📄 01_simulaciones.R](simulaciones.R)
 ---- 1.1 Simulación con supuestos clásicos cumplidos (n=50, B=1000)
 ---- 1.2 Simulación con heterocedasticidad (n=50, B=1000)
 
