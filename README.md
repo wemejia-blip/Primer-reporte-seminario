@@ -13,7 +13,7 @@ Scripts en R que compara y análiza los resultados MCO vs Bootstrap por pares, y
 - 2.2 Caso 1: log(mpg) ~ weight — Shapiro-Wilk y Breusch-Pagan
 - 2.3 Caso 2: mpg ~ log(weight) — Shapiro-Wilk y Breusch-Pagan
 
- [📄 3_bootstrap_auto_mpg.R]()
+ [📄 3_bootstrap_auto_mpg.R](Aplicacion_boostrap.R)
 - 3.1 Bootstrap Caso 1: log(mpg) ~ weight
 - 3.2 Bootstrap Caso 2: mpg ~ log(weight)
 - 3.3 Evaluación predictiva (partición 70/30: RMSE, MAE, R²)
