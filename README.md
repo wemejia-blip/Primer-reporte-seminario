@@ -39,6 +39,25 @@ R (≥ 4.0), paquete `lmtest`.
 
 
 
+## 📊 Contenido de los scripts
+
+| Script | Descripción | Salidas principales |
+|--------|-------------|---------------------|
+| **01_simulaciones.R** | Simulación Monte Carlo para comparar MCO vs Bootstrap | Tablas de errores estándar, cobertura de IC |
+| └─ 01.1 | Supuestos clásicos cumplidos (n=50, B=1000) | |
+| └─ 01.2 | Con heterocedasticidad (n=50, B=1000) | |
+| **02_prueba_supuestos.R** | Exploración y verificación de supuestos en Auto MPG | Pruebas Shapiro-Wilk y Breusch-Pagan |
+| └─ 02.1 | Exploración inicial (mpg vs weight) | |
+| └─ 02.2 | Caso 1: log(mpg) ~ weight | |
+| └─ 02.3 | Caso 2: mpg ~ log(weight) | |
+| **03_bootstrap_auto_mpg.R** | Bootstrap por pares en datos reales | Errores estándar, IC bootstrap, métricas predictivas |
+| └─ 03.1 | Bootstrap Caso 1 | |
+| └─ 03.2 | Bootstrap Caso 2 | |
+| └─ 03.3 | Evaluación predictiva (70/30) | RMSE, MAE, R² |
+| **04_estabilidad_asintotica.R** | Análisis de convergencia del Bootstrap | Distancias KS para diferentes tamaños de muestra |
+| └─ 04.1 | Población homocedástica | |
+| └─ 04.2 | Población heterocedástica | |
+| └─ 04.3 | Datos reales Auto MPG | |
 
 
 
