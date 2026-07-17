@@ -31,7 +31,7 @@ Scripts en R que compara y análiza los resultados MCO vs Bootstrap por pares, y
 - `mpg`: millas recorridas por galón de combustible.
 - `weight`: peso vehicular en libras.
 
-Fuente original: [UCI Machine Learning Repository — Auto MPG](https://archive.ics.uci.edu/dataset/9/auto+mpg)(Quinlan, 1993).
+Fuente original: [UCI Machine Learning Repository — Auto MPG](https://archive.ics.uci.edu/dataset/9/auto+mpg) (Quinlan, 1993).
 
 ## Ejecución
 
