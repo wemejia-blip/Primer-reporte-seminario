@@ -50,7 +50,7 @@ Colocar `[auto-mpg.csv](auto-mpg.csv)´ en el directorio de trabajo y correr los
 
 ## Informe completo
 
-El análisis detallado, gráficos y discusión de resultados se encuentran en `[Avance #2_ bootstrap_regresion_lineal]()`.
+El análisis detallado, gráficos y discusión de resultados se encuentran en [Avance #2_ bootstrap_regresion_lineal]().
 
 
 
