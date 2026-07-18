@@ -8,7 +8,7 @@ Scripts en R que compara y análiza los resultados MCO vs Bootstrap por pares, y
 - 1.1 Simulación con supuestos clásicos cumplidos (n=50, B=1000)
 - 1.2 Simulación con heterocedasticidad (n=50, B=1000)
 
-[📄 2_prueba_supuestos.R](Prueba_de_supuestos_clasicos.R)
+[📄 2_prueba_supuestos.R](prueba_supuestos_clasicos.R)
 - 2.1 Exploración Auto MPG (mpg vs weight)
 - 2.2 Caso 1: log(mpg) ~ weight — Shapiro-Wilk y Breusch-Pagan
 - 2.3 Caso 2: mpg ~ log(weight) — Shapiro-Wilk y Breusch-Pagan
