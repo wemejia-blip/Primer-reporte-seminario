@@ -26,7 +26,7 @@ Scripts en R que compara y análiza los resultados MCO vs Bootstrap por pares, y
 
   ## Datos
 
-[auto-mpg.csv](auto-mpg.csv) — dataset Auto MPG (~398 vehículos). Variables usadas:
+[auto-mpg.csv](auto-mpg.csv) — dataset Auto MPG (~398 vehículos) pero al hacer limpieza se obtiene un total de 392 vehículos. Variables usadas:
 
 - `mpg`: millas recorridas por galón de combustible.
 - `weight`: peso vehicular en libras.
